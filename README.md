@@ -1,7 +1,7 @@
 # pong-sfml
 A minimalistic pong game with a modern design written using SFML
 
-![gif](https://github.com/artemka-sh/pong-sfml, "game")
+![gif](https://raw.githubusercontent.com/artemka-sh/pong-sfml/main/preview/pong-gif.GIF, "game")
 
 
 
@@ -10,4 +10,4 @@ A minimalistic pong game with a modern design written using SFML
 
 ___
 
-Contact me: [discord server](https://discord.gg/6gxhddkHBJ) / tiomochka
+Contact me: [discord server](https://discord.gg/6gxhddkHBJ) (https://discord.gg/6gxhddkHBJ) / tiomochka
