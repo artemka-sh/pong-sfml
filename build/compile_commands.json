@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/Artem/vscode/pong_git/pong-sfml/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/pong.dir/main.cpp.o -c /home/Artem/vscode/pong_git/pong-sfml/main.cpp",
+  "file": "/home/Artem/vscode/pong_git/pong-sfml/main.cpp"
+}
+]
