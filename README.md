@@ -1,6 +1,7 @@
 # pong-sfml
 A minimalistic pong game with a modern design written using SFML
 
+(lagging gif)
 ![gif](https://raw.githubusercontent.com/artemka-sh/pong-sfml/main/preview/pong-gif.GIF "game")
 
 
